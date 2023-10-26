@@ -20,3 +20,7 @@ int main()
         row= row + 1;
     }
 }
+// the output is 
+// A B C
+// A B C
+// A B C
